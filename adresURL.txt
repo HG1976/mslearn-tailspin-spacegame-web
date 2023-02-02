@@ -1,0 +1,2 @@
+https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/3-build-locally
+Zadanie do utworzenia przykładowego pipeline.
